@@ -114,4 +114,5 @@ a_string_palindrome('MALAYALAMA')
 # Count vowels and consonants in a string.
 count_vowels_and_consonants("Delhi is a capital City of Bharath!!")
 #Check if a number is prime.
-a_number_is_prime(123)
+# a_number_is_prime(123)
+
